@@ -20,6 +20,8 @@ Run command from `.bin` directory
 
 ```bash
 foo@bar:~$ ./bin/calc -i "5+2"
+foo@bar:~$ ./bin/calc -i "20 + -20 + 30 - -30"
+foo@bar:~$ ./bin/calc -i "-20 + -20 + 30 - -30"
 ```
 
 ## Get Help
