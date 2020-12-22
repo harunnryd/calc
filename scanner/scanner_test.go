@@ -1,7 +1,7 @@
 package scanner
 
 import (
-	"calc/stack"
+	"github.com/harunnryd/calc/stack"
 	"testing"
 )
 

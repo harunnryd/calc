@@ -2,8 +2,8 @@ package scanner
 
 import (
 	"bytes"
-	"calc/element"
-	"calc/stack"
+	"github.com/harunnryd/calc/element"
+	"github.com/harunnryd/calc/stack"
 	"errors"
 	"strconv"
 	"strings"

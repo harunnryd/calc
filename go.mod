@@ -1,4 +1,4 @@
-module calc
+module github.com/harunnryd/calc
 
 go 1.15
 

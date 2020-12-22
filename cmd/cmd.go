@@ -14,9 +14,9 @@ limitations under the License.
 package cmd
 
 import (
-	"calc/scanner"
-	"calc/stack"
-	"calc/version"
+	"github.com/harunnryd/calc/scanner"
+	"github.com/harunnryd/calc/stack"
+	"github.com/harunnryd/calc/version"
 	"fmt"
 	"os"
 

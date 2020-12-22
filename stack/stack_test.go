@@ -1,7 +1,7 @@
 package stack
 
 import (
-	"calc/element"
+	"github.com/harunnryd/calc/element"
 	"testing"
 )
 

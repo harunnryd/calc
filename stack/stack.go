@@ -1,6 +1,6 @@
 package stack
 
-import "calc/element"
+import "github.com/harunnryd/calc/element"
 
 // IStack is an interface that stores the methods that Stack struct will use.
 type IStack interface {

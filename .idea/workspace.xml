@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="ffff569b-57df-4ef8-852c-d6d9c89f1c76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/cmd.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/cmd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/version.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/version.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/options.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/scanner.go" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/scanner.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scanner/scanner_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/scanner_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/stack.go" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stack/stack_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +117,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="499" y="236" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1608380230529" />
+    <state x="646" y="333" width="628" height="534" key="find.popup" timestamp="1608648052971">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="646" y="333" width="628" height="534" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608648052971" />
     <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1608646577784">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>

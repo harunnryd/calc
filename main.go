@@ -1,7 +1,7 @@
 package main
 
 import (
-	"calc/cmd"
+	"github.com/harunnryd/calc/cmd"
 )
 
 func main() {

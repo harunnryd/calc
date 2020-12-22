@@ -14,7 +14,7 @@ limitations under the License.
 package cmd
 
 import (
-	"calc/version"
+	"github.com/harunnryd/calc/version"
 	"fmt"
 
 	"github.com/spf13/cobra"
